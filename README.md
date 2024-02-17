@@ -19,7 +19,7 @@ This repository contains a basic API developed using Express.js.
 
 ## Endpoints
 
-- **GET /**: Get Hello World message.
+- **GET /**: Get `Hello World` message.
   
 ## License
 
